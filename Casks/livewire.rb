@@ -1,6 +1,6 @@
 cask "livewire" do
-  version "1.0.3"
-  sha256 "3c155d3f112f79aabbc47f8ee94af26eb45e17037a7dde9388edc7fd27b71216"
+  version "1.0.4"
+  sha256 "1a879897eca24baffcd8466f4f3a57893405d1166425f9db75ff6570d8ebbbbd"
 
   url "https://github.com/livewire-kt/livewire/releases/download/v#{version}/Livewire-#{version}.dmg"
   name "Livewire"
